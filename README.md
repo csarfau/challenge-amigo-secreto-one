@@ -10,6 +10,7 @@
  
 ## Como usar
 
-- Primeiro você vai inserir todos os amigos que irão participar do sorteio, para isso, insira o nome um a um no campo indicado e clique em "Adicionar", você verá que será criada uma lista logo abaixo com os nomes inseridos.
+- Acesse: https://csarfau.github.io/challenge-amigo-secreto-one/
+- Primeiro você vai inserir todos os amigos que irão participar do sorteio. Para isso, insira o nome um a um no campo indicado e clique em "Adicionar", você verá que será criada uma lista logo abaixo com os nomes inseridos.
 - Após inserir todos os participantes, é só clicar em "Sortear" e torcer pra que você seja o sorteado!
 - Será informado de verde logo abaixo o nome do vencedor.
