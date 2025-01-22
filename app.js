@@ -19,7 +19,17 @@ function listaAmigos() {
 
   friends.forEach((friend) => {
     let li = document.createElement("li");
-    li.textContent = friend;
+    li.innerHTML = friend;
     list.appendChild(li);
   });
+}
+
+function sortearAmigo() {
+  if(friends.length === 1) {
+    return alert("Por favor, adicione pelo menos 2 amigos antes de sortear.");	
+  }
+  let aleatorio = Math.floor(Math.random() * friends.length);
+  let sorteado = friends[aleatorio];
+
+  document.getElementById("resultado").innerHTML = `O amigo sorteado foi: ${sorteado}`;
 }
